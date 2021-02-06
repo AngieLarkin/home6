@@ -13,4 +13,4 @@ docker build -t home6 .
 docker run -d -p 8080:8080 home6
 
 
-after that you can check page at  http://your-ip:8080/hello-1.0/index.jsp
+after that you can check page at  http://your-ip:8080/
