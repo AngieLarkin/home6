@@ -14,3 +14,7 @@ docker run -d -p 8080:8080 home6
 
 
 after that you can check page at  http://your-ip:8080/
+
+or you can download image via 
+
+docker push drwolf06/home6:tagname
